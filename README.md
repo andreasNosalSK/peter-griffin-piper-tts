@@ -78,17 +78,6 @@ This is a character-style experimental voice, not a general-purpose quality benc
 
 Do not use a synthetic voice to mislead people into thinking an actual actor or character creator approved or recorded a message.
 
-## Repository contents
-
-- [MODEL_CARD.md](MODEL_CARD.md) - technical details, known limitations and source provenance
-- [RIGHTS_AND_LICENSING.md](RIGHTS_AND_LICENSING.md) - licensing and public-distribution checklist
-- [docs/HOME_ASSISTANT.md](docs/HOME_ASSISTANT.md) - Piper / Wyoming installation
-- [docs/CLI.md](docs/CLI.md) - local generation and verification
-- [docs/TRAINING_NOTES.md](docs/TRAINING_NOTES.md) - training configuration and reproducibility notes
-- [docs/PUBLISHING.md](docs/PUBLISHING.md) - GitHub release workflow
-- [scripts/verify_voice.py](scripts/verify_voice.py) - validate model/config files and print checksums
-- [scripts/prepare_release.py](scripts/prepare_release.py) - stage local model files for a Release
-
 ## Credits
 
 Thanks to the [Piper TTS project](https://github.com/OHF-Voice/piper1-gpl), the community dataset uploader, and Home Assistant's voice ecosystem. Mentioning a dataset or project is attribution, **not** evidence that it grants rights to redistribute recordings or a derived model.
