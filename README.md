@@ -92,7 +92,3 @@ Do not use a synthetic voice to mislead people into thinking an actual actor or 
 ## Credits
 
 Thanks to the [Piper TTS project](https://github.com/OHF-Voice/piper1-gpl), the community dataset uploader, and Home Assistant's voice ecosystem. Mentioning a dataset or project is attribution, **not** evidence that it grants rights to redistribute recordings or a derived model.
-
-## Rights and licensing
-
-No public redistribution or open-source license is claimed for the voice weights or source audio in this template. See [RIGHTS_AND_LICENSING.md](RIGHTS_AND_LICENSING.md) before making a public Release.
