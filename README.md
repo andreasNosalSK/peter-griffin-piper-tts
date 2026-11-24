@@ -22,14 +22,10 @@ The training log reported **1,444 processed utterances**. The training was confi
 
 ## Download
 
-**Model files are not included in this documentation-only repository template.** Once distribution rights are checked and a release is published, get **both** files from [Releases](../../releases):
+Download **both** model files from the [latest release (`piper-tts`)](https://github.com):
 
-```text
-en_US-peter-medium.onnx
-en_US-peter-medium.onnx.json
-```
-
-Keep the files together with exactly these names. The `.onnx` file contains the voice; the `.onnx.json` file contains its configuration.
+- `en_US-peter-medium.onnx` (voice model)
+- `en_US-peter-medium.onnx.json` (model configuration)
 
 ## Quick test (Windows / Linux / WSL2)
 
