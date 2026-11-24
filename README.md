@@ -2,8 +2,6 @@
 
 An **unofficial, community-trained English (US) text-to-speech voice** designed for [Piper TTS](https://github.com/OHF-Voice/piper1-gpl) and local voice responses in [Home Assistant](https://www.home-assistant.io/).
 
-> **Unofficial fan project.** This is not made, sponsored, or endorsed by the creators of *Family Guy*, its distributors, or the people who perform its characters. Rights to the source recordings and any resulting model have **not been verified for redistribution**. Review [Rights and licensing](RIGHTS_AND_LICENSING.md) before publishing model weights or audio samples.
-
 ## Overview
 
 | Property | Value |
