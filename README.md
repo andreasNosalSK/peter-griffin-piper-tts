@@ -22,7 +22,7 @@ The training log reported **1,444 processed utterances**. The training was confi
 
 ## Download
 
-Download **both** model files from the [latest release (`piper-tts`)](https://github.com):
+Download **both** model files from the [latest release (`piper-tts`)](https://github.com/andreasNosalSK/peter-griffin-piper-tts/releases/tag/piper-tts):
 
 - `en_US-peter-medium.onnx` (voice model)
 - `en_US-peter-medium.onnx.json` (model configuration)
